@@ -4,6 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2020-04-16 13:14:24 -0400
 categories: jekyll update
 ---
+
+I'm trying to modify this article and see if it works. Does it allow images?
+
+![download (1)](https://github.com/pranaykotas/sample-jekyll/assets/57515317/0e011ebc-cdbd-46ca-935e-149e9e716531)
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
